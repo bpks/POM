@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Hub spot Test automtion regression suite" verbose="1"
-	thread-count="3" parallel="tests">
+	thread-count="30" parallel="tests">
 
 	<listeners>
 		<listener class-name="com.qa.hubspot.testlisteners.TesultsListener" />
